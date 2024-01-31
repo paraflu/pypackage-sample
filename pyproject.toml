@@ -10,4 +10,4 @@ dependencies = [
 ]
 
 [project.scripts]
-cli-name = "mypackage.main:main"
+cli-name = "mypackage.cli:main"
